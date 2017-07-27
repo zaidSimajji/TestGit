@@ -1,0 +1,10 @@
+dependencies: \
+  /Users/BinaryVintage/TestGit/node_modules/react-native/React/Base/RCTDisplayLink.m \
+  /Users/BinaryVintage/TestGit/node_modules/react-native/React/Base/RCTDisplayLink.h \
+  /Users/BinaryVintage/TestGit/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/BinaryVintage/TestGit/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/BinaryVintage/TestGit/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/BinaryVintage/TestGit/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/BinaryVintage/TestGit/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/BinaryVintage/TestGit/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/BinaryVintage/TestGit/node_modules/react-native/React/Profiler/RCTProfile.h
